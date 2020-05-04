@@ -1,2 +1,2 @@
 # hyperblog
-un blog i
+un blog en GitHub para el curso.
