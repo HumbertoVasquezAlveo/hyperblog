@@ -12,5 +12,6 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * aprender git
 * panama
 * creado por humbeto vasquez
+* incluye linux windows y mac
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
